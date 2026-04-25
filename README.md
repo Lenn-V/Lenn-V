@@ -70,7 +70,7 @@ Full stack web applications using MERN
 ## 📫 Contact
 
 * 📧 [lennvissenberg15@gmail.com](mailto:lennvissenberg15@gmail.com)
-* 💬 Discord: (your username)
+* 💬 Discord: lenny0008
 
 ---
 
