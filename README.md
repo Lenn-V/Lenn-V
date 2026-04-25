@@ -1,47 +1,47 @@
-# Hi, I'm Lenn
+# Hi, I'm Lenn 👋
 
- **Full Stack Developer (FiveM & MERN Stack)**
- **Responsive Web Design Certified**
+💻 **Full Stack Developer (FiveM & MERN Stack)**
+🎨 **Responsive Web Design Certified**
 
 ---
 
-##  About Me
+## 🚀 About Me
 
 I'm a full stack developer focused on building scalable systems for FiveM servers and modern web applications using the MERN stack.
 
 I enjoy combining backend performance with clean, responsive frontends.
 
-*  Specialized in FiveM (ESX) development
-*  MERN Stack (MongoDB, Express, React, Node.js)
-*  Focused on performance & scalability
-*  Strong in responsive UI/UX
+* 🔧 Specialized in FiveM (ESX) development
+* 🌐 MERN Stack (MongoDB, Express, React, Node.js)
+* ⚡ Focused on performance & scalability
+* 🎨 Strong in responsive UI/UX
 
 ---
 
-##  Tech Stack
+## 🛠 Tech Stack
 
-###  Backend
+### 🔹 Backend
 
 * Node.js
 * Express.js
 * MySQL / MongoDB
 
-###  Frontend
+### 🔹 Frontend
 
 * React
 * HTML, CSS
 * Responsive Design
 
-###  Game Development
+### 🔹 Game Development
 
 * Lua
 * FiveM (ESX framework)
 
 ---
 
-##  Featured Projects
+## 📌 Featured Projects
 
-###  ESX Pawnshop
+### 🔹 ESX Pawnshop
 
 Custom pawnshop system for FiveM
 
@@ -49,7 +49,7 @@ Custom pawnshop system for FiveM
 * Configurable system
 * Clean UI
 
-###  ox_inventory Custom
+### 🔹 ox_inventory Custom
 
 Advanced inventory system customization
 
@@ -57,7 +57,7 @@ Advanced inventory system customization
 * Performance improvements
 * Scalable structure
 
-###  MERN Web Apps
+### 🔹 MERN Web Apps
 
 Full stack web applications using MERN
 
@@ -67,13 +67,13 @@ Full stack web applications using MERN
 
 ---
 
-##  Contact
+## 📫 Contact
 
-*  [lennvissenberg15@gmail.com](mailto:lennvissenberg15@gmail.com)
-*  Discord: lenny0008
+* 📧 [lennvissenberg15@gmail.com](mailto:lennvissenberg15@gmail.com)
+* 💬 Discord: (your username)
 
 ---
 
-##  Focus
+## ⚡ Focus
 
 Building scalable systems, clean UIs, and efficient backend architectures.
